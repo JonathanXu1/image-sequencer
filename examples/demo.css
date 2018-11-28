@@ -207,3 +207,17 @@ h1 {
   text-align:center;
   display:none;
 }
+
+.fileInput{
+  /*background-color: red;*/
+}
+
+.upload{
+  padding: 30px;
+  margin: 10px 20% 30px;
+  border: 4px dashed #ccc;
+  border-radius: 8px;
+  text-align: center;
+  color: #444;
+  /*background-color:red*/
+}
